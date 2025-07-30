@@ -1,4 +1,11 @@
 # SC1000 mglean version development
+NOTES..
+1. Need to add os-version.mp3 "firmware version 1.7 beta with LED Ring Mod" .. This is added to the tarbal folder.
+2. Check scsettings.txt file is correct in tarbal folder..
+3. Check for sc.tar and scsettings.txt in software folder.
+4. Check for sc.tar and scsettings.bak in software folder.
+
+
 ## Open-source portable digital scratch instrument
 
 This github holds source code and CAM files for the SC1000.
