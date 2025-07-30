@@ -1,9 +1,14 @@
 # SC1000 mglean version development
+
 NOTES..
-1. Need to add os-version.mp3 "firmware version 1.7 beta with LED Ring Mod" .. This is added to the tarbal folder.
-2. Check the custom 16 button scsettings.txt file is correct in tarbal folder..
-3. Check for sc.tar and scsettings.txt in software folder.
-4. Check for sc.tar and scsettings.bak in software folder.
+1. added os-version.mp3 "firmware version 1.7 beta with LED Ring Mod" .. This was added to the tarbal folder. CHECK
+2. Checked the custom 16 button scsettings.txt file is correct in tarbal folder.. CHECK
+3. Check for sc.tar (8 files) and scsettings.txt in software folder. CHECKED
+4. Made a zip that contains a bets folder, a samples folder, the 2KB xwax script, sc.tar and my custom 16 button scsettings.txt file. This zip is downloadable in assets.
+5. Made USB STICK from zip the 5 files, inserted USB into SC1000 and started the updating sequence (HOLDING BEAT BUTTON AND PRESSING POWER ON)
+Updated SC1000 and triggered mp3.. Confirmed by.. "firmware version 1.7 beta with LED Ring Mod"
+SC1000 is ready for development..
+Next attempt is PSTURMs LED RING MOD.
 
 
 ## Open-source portable digital scratch instrument
