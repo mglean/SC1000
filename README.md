@@ -6,10 +6,10 @@ NOTES..
 3. Check for sc.tar (8 files) and scsettings.txt in software folder. CHECKED
 4. Made a zip that contains five files.. A beats folder, a samples folder, the 2KB xwax script, sc.tar and my custom 16 button scsettings.txt file. This zip is downloadable in assets.
 5. Made USB STICK from zip the five files, inserted USB into SC1000 and started the updating sequence (HOLDING BEAT BUTTON AND PRESSING POWER ON)
-Updated SC1000 and triggered mp3.. Confirmed by.. "firmware version 1.7 beta with LED Ring Mod"
-SC1000 is ready for development..
-Next attempt is PSTURMs LED RING MOD. having it merge with my branch..
-Which is basically Rasteri's Firmware Version 1.7 Beta & with my uodated mp3 and custom scsettings updates. To keep things tidy and informative,
+6. Updated SC1000 and triggered mp3.. Confirmed by.. "firmware version 1.7 beta with LED Ring Mod"
+7. SC1000 is ready for development..
+8. Next attempt is PSTURMs LED RING MOD. having it merge with my branch..
+.. Which is basically Rasteri's Firmware Version 1.7 Beta & with my uodated mp3 and custom scsettings updates. To keep things tidy and informative,
 
 
 ## Open-source portable digital scratch instrument
