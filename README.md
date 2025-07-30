@@ -1,4 +1,4 @@
-# SC1000
+# SC1000 mglean version development
 ## Open-source portable digital scratch instrument
 
 This github holds source code and CAM files for the SC1000.
