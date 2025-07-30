@@ -1,4 +1,4 @@
-# SC1000 mglean version development
+# SC1000 mglean version development JULY 30 2025
 
 NOTES..
 1. added os-version.mp3 "firmware version 1.7 beta with LED Ring Mod" .. This was added to the tarbal folder. CHECK
@@ -9,7 +9,8 @@ NOTES..
 6. Updated SC1000 and triggered mp3.. Confirmed by.. "firmware version 1.7 beta with LED Ring Mod"
 7. SC1000 is ready for development..
 8. Next attempt is PSTURMs LED RING MOD. having it merge with my branch..
-.. Which is basically Rasteri's Firmware Version 1.7 Beta & with my uodated mp3 and custom scsettings updates. To keep things tidy and informative,
+   Which is basically Rasteri's Firmware Version 1.7 Beta & with my uodated mp3 and custom scsettings updates..
+   To keep things tidy and informative.
 
 
 ## Open-source portable digital scratch instrument
