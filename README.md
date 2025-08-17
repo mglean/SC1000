@@ -1,12 +1,12 @@
 # SC1000 mglean version development JULY 30 2025
 
 NOTES..
-1. added os-version.mp3 "firmware version 1.7 beta with LED Ring Mod" .. This was added to the tarbal folder. CHECK
+1. added os-version.mp3 "firmware version 1.7 beta with 16 Cue Buttons & LED Ring Mod" .. This was added to the tarbal folder. CHECK
 2. Checked the custom 16 button scsettings.txt file is correct in tarbal folder.. CHECK
 3. Check for sc.tar (8 files) and scsettings.txt in software folder. CHECKED
 4. Made a zip that contains five files.. A beats folder, a samples folder, the 2KB xwax script, sc.tar and my custom 16 button scsettings.txt file. This zip is downloadable in assets.
 5. Made USB STICK from zip the five files, inserted USB into SC1000 and started the updating sequence (HOLDING BEAT BUTTON AND PRESSING POWER ON)
-6. Updated SC1000 and triggered mp3.. Confirmed by.. "firmware version 1.7 beta with LED Ring Mod"
+6. Updated SC1000 and triggered mp3.. Confirmed by.. "firmware version 1.7 beta with 16 Cue Buttons & LED Ring Mod"
 7. SC1000 is ready for development..
 8. Next attempt is PSTURMs LED RING MOD. having it merge with my branch..
    Which is basically Rasteri's Firmware Version 1.7 Beta & with my uodated mp3 and custom scsettings updates..
